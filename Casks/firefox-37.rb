@@ -6,7 +6,7 @@ cask 'firefox-37' do
   name 'Firefox'
   name 'Mozilla Firefox 37.0'
   homepage 'https://www.mozilla.org/en-US/firefox/'
-  license :mpl
+  #license :mpl
 
   app 'Firefox.app', :target => 'Firefox-37.app'
 end
